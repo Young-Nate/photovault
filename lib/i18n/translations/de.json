@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "features": "Funktionen",
+    "security": "Sicherheit",
+    "blog": "Blog",
+    "download": "Kostenlos Herunterladen",
+    "home": "Startseite"
+  },
+  "hero": {
+    "badge": "#1 Datenschutz-App — Versteckter Taschenrechner-Tresor",
+    "title1": "Ihre Geheimnisse,",
+    "title2": "Versteckt in Sichtweite",
+    "subtitle": "Ein voll funktionsfähiger Taschenrechner, der heimlich Ihre privaten Fotos, Videos, Dokumente und Passwörter schützt. Niemand wird es je wissen.",
+    "appStore": "Im App Store laden",
+    "googlePlay": "Bei Google Play holen"
+  },
+  "features": {
+    "sectionTitle": "Totale Privatsphäre, Kein Kompromiss",
+    "sectionSubtitle": "Jede Funktion mit einem Ziel entwickelt: Ihr Privatleben privat zu halten.",
+    "calculator": {
+      "title": "Taschenrechner-Tarnung",
+      "desc": "Sieht aus und funktioniert wie ein echter Taschenrechner. Geben Sie Ihre geheime PIN ein, um Ihren Tresor zu öffnen. Niemand schöpft Verdacht."
+    },
+    "photos": {
+      "title": "Sicherer Foto & Video Tresor",
+      "desc": "Importieren Sie Fotos und Videos aus Ihrer Galerie. Sie verschwinden aus Ihrer Kamerarolle und bleiben in Ihrem Tresor gesperrt."
+    },
+    "dashboard": {
+      "title": "Alle Dateien Geschützt",
+      "desc": "Speichern Sie Fotos, Videos, Dokumente, Audiodateien und Passwörter — alles verschlüsselt und auf Ihrem Gerät gesichert."
+    },
+    "customize": {
+      "title": "Totale Anpassung",
+      "desc": "Personalisieren Sie die Tarnung Ihres Taschenrechners mit verschiedenen Themen und Farben, um sich perfekt zu tarnen."
+    }
+  },
+  "security": {
+    "sectionTitle": "Militärgrade Sicherheit",
+    "sectionSubtitle": "Von Grund auf für Datenschutz entwickelt. Ihre Daten verlassen niemals Ihr Gerät.",
+    "items": [
+      {
+        "title": "AES-256 Verschlüsselung",
+        "desc": "Militärgrade Verschlüsselung schützt jede Datei in Ihrem Tresor."
+      },
+      {
+        "title": "Kein Cloud — Nur auf dem Gerät",
+        "desc": "Ihre Daten bleiben auf Ihrem Gerät. Keine Server, keine Cloud, keine Datenlecks."
+      },
+      {
+        "title": "Einbruchalarme",
+        "desc": "Erhalten Sie eine Benachrichtigung mit Foto, wenn jemand versucht, Ihren Tresor zu öffnen."
+      },
+      {
+        "title": "Köder-Modus",
+        "desc": "Zeigen Sie einen gefälschten leeren Tresor, wenn Sie gezwungen werden, ihn zu öffnen."
+      },
+      {
+        "title": "100% Kostenlos",
+        "desc": "Alle grundlegenden Datenschutzfunktionen sind völlig kostenlos, für immer."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Von Millionen Vertraut",
+    "sectionSubtitle": "Schließen Sie sich Millionen von Menschen an, die täglich mit Photo Vault ihre Privatsphäre schützen.",
+    "items": [
+      {
+        "name": "Alex M.",
+        "role": "Verifizierter Nutzer",
+        "text": "Endlich eine App, die meine privaten Fotos wirklich versteckt. Die Taschenrechner-Tarnung ist genial — mein Partner benutzt ständig mein Handy und hat keine Ahnung. Ich liebe es."
+      },
+      {
+        "name": "Jessica T.",
+        "role": "Verifizierter Nutzer",
+        "text": "Ich war zunächst skeptisch, aber diese App ist großartig. Meine privaten Fotos sind sicher und der Taschenrechner sieht völlig echt aus. Die Einbruchalarme sind ein tolles Bonus."
+      },
+      {
+        "name": "David K.",
+        "role": "Verifizierter Nutzer",
+        "text": "Die beste Datenschutz-App, die ich je benutzt habe. Sie funktioniert wirklich als Taschenrechner, damit niemand verdächtig wird. Ich benutze sie für Fotos, Dokumente und Passwörter. 10/10."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Schützen Sie Ihre Privatsphäre Heute",
+    "subtitle": "Laden Sie Photo Vault herunter und verstecken Sie Ihre privaten Fotos, Videos und Dateien hinter einem voll funktionsfähigen Taschenrechner. Für immer kostenlos.",
+    "appStore": "Im App Store laden",
+    "googlePlay": "Bei Google Play holen"
+  },
+  "articleCta": {
+    "title": "Schützen Sie Ihre Privatsphäre mit Photo Vault",
+    "subtitle": "Verstecken Sie Ihre privaten Fotos und Dateien hinter einem funktionierenden Taschenrechner. Kostenlos für iOS und Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "Der #1 geheime Foto-Tresor als Taschenrechner getarnt. Verstecken Sie private Fotos, Videos und Dateien hinter einem Taschenrechner.",
+    "product": "Produkt",
+    "features": "Funktionen",
+    "security": "Sicherheit",
+    "download": "Herunterladen",
+    "resources": "Ressourcen",
+    "blog": "Blog",
+    "helpCenter": "Hilfezentrum",
+    "contact": "Kontakt",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Richtlinie",
+    "copyright": "© 2026 Photo Vault. Alle Rechte vorbehalten.",
+    "madeWith": "Erstellt mit Perplexity Computer"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Tipps, Anleitungen und Einblicke zu Datenschutz, Sicherheit und Schutz persönlicher Daten.",
+    "backToHome": "Zurück zur Startseite",
+    "readMore": "Lesen",
+    "noArticles": "Noch keine Artikel. Schauen Sie bald wieder vorbei.",
+    "relatedArticles": "Verwandte Artikel",
+    "backToBlog": "Zurück zum Blog",
+    "readArticle": "Artikel lesen"
+  }
+}

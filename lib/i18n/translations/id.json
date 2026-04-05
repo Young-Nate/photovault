@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "features": "Fitur",
+    "security": "Keamanan",
+    "blog": "Blog",
+    "download": "Unduh Gratis",
+    "home": "Beranda"
+  },
+  "hero": {
+    "badge": "#1 Aplikasi Privasi — Brankas Tersembunyi di Kalkulator",
+    "title1": "Rahasia Anda,",
+    "title2": "Tersembunyi di Tempat Terang",
+    "subtitle": "Kalkulator yang sepenuhnya berfungsi yang diam-diam melindungi foto, video, dokumen, dan kata sandi pribadi Anda. Tidak ada yang akan pernah tahu.",
+    "appStore": "Unduh di iOS",
+    "googlePlay": "Dapatkan di Android"
+  },
+  "features": {
+    "sectionTitle": "Privasi Total, Tanpa Kompromi",
+    "sectionSubtitle": "Setiap fitur dirancang dengan satu tujuan: menjaga kehidupan pribadi Anda tetap privat.",
+    "calculator": {
+      "title": "Penyamaran Kalkulator",
+      "desc": "Terlihat dan berfungsi seperti kalkulator sungguhan. Masukkan PIN rahasia Anda untuk membuka brankas. Tidak ada yang curiga."
+    },
+    "photos": {
+      "title": "Brankas Foto & Video Aman",
+      "desc": "Impor foto dan video dari galeri Anda. Mereka menghilang dari kamera dan tetap terkunci di brankas Anda."
+    },
+    "dashboard": {
+      "title": "Semua File Terlindungi",
+      "desc": "Simpan foto, video, dokumen, file audio, dan kata sandi — semuanya dienkripsi dan diamankan di perangkat Anda."
+    },
+    "customize": {
+      "title": "Kustomisasi Total",
+      "desc": "Personalisasi penyamaran kalkulator Anda dengan tema dan warna yang berbeda untuk menyatu dengan sempurna."
+    }
+  },
+  "security": {
+    "sectionTitle": "Keamanan Tingkat Militer",
+    "sectionSubtitle": "Dibangun untuk privasi dari awal. Data Anda tidak pernah meninggalkan perangkat Anda.",
+    "items": [
+      {
+        "title": "Enkripsi AES-256",
+        "desc": "Enkripsi tingkat militer melindungi setiap file di brankas Anda."
+      },
+      {
+        "title": "Tanpa Cloud — Hanya di Perangkat",
+        "desc": "Data Anda tetap di perangkat Anda. Tidak ada server, tidak ada cloud, tidak ada kebocoran."
+      },
+      {
+        "title": "Peringatan Penyusupan",
+        "desc": "Terima notifikasi dengan foto jika seseorang mencoba mengakses brankas Anda."
+      },
+      {
+        "title": "Mode Umpan",
+        "desc": "Tampilkan brankas kosong palsu jika dipaksa untuk membukanya."
+      },
+      {
+        "title": "100% Gratis",
+        "desc": "Semua fitur privasi inti sepenuhnya gratis, selamanya."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Dipercaya oleh Jutaan Orang",
+    "sectionSubtitle": "Bergabunglah dengan jutaan orang yang melindungi privasi mereka dengan Photo Vault setiap hari.",
+    "items": [
+      {
+        "name": "Alex M.",
+        "role": "Pengguna Terverifikasi",
+        "text": "Akhirnya aplikasi yang benar-benar menyembunyikan foto pribadi saya. Penyamaran kalkulator sangat cerdas — pasangan saya sering menggunakan ponsel saya dan tidak tahu apa-apa. Sangat suka."
+      },
+      {
+        "name": "Jessica T.",
+        "role": "Pengguna Terverifikasi",
+        "text": "Awalnya skeptis, tapi aplikasi ini luar biasa. Foto pribadi saya aman dan kalkulator terlihat benar-benar nyata. Peringatan penyusupan adalah bonus yang bagus."
+      },
+      {
+        "name": "David K.",
+        "role": "Pengguna Terverifikasi",
+        "text": "Aplikasi privasi terbaik yang pernah saya gunakan. Benar-benar berfungsi sebagai kalkulator sehingga tidak ada yang curiga. Saya gunakan untuk foto, dokumen, dan kata sandi. 10/10."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Lindungi Privasi Anda Hari Ini",
+    "subtitle": "Unduh Photo Vault dan sembunyikan foto, video, dan file pribadi Anda di balik kalkulator yang sepenuhnya berfungsi. Gratis selamanya.",
+    "appStore": "Unduh di iOS",
+    "googlePlay": "Dapatkan di Android"
+  },
+  "articleCta": {
+    "title": "Lindungi Privasi Anda dengan Photo Vault",
+    "subtitle": "Sembunyikan foto dan file pribadi Anda di balik kalkulator yang berfungsi. Gratis untuk iOS dan Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "Brankas foto rahasia #1 yang menyamar sebagai kalkulator. Sembunyikan foto, video, dan file pribadi di balik kalkulator yang berfungsi.",
+    "product": "Produk",
+    "features": "Fitur",
+    "security": "Keamanan",
+    "download": "Unduh",
+    "resources": "Sumber Daya",
+    "blog": "Blog",
+    "helpCenter": "Pusat Bantuan",
+    "contact": "Kontak",
+    "legal": "Hukum",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Syarat Layanan",
+    "cookies": "Kebijakan Cookie",
+    "copyright": "© 2026 Photo Vault. Semua hak dilindungi.",
+    "madeWith": "Dibuat dengan Perplexity Computer"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Tips, panduan, dan wawasan tentang privasi, keamanan, dan perlindungan data pribadi.",
+    "backToHome": "Kembali ke Beranda",
+    "readMore": "Baca",
+    "noArticles": "Belum ada artikel. Kembali lagi nanti.",
+    "relatedArticles": "Artikel Terkait",
+    "backToBlog": "Kembali ke Blog",
+    "readArticle": "Baca artikel"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "features": "Funzionalità",
+    "security": "Sicurezza",
+    "blog": "Blog",
+    "download": "Scarica Gratis",
+    "home": "Home"
+  },
+  "hero": {
+    "badge": "#1 App per la Privacy — Cassaforte Nascosta nella Calcolatrice",
+    "title1": "I Tuoi Segreti,",
+    "title2": "Nascosti in Bella Vista",
+    "subtitle": "Una calcolatrice completamente funzionale che protegge segretamente le tue foto, video, documenti e password privati. Nessuno lo saprà mai.",
+    "appStore": "Scarica su iOS",
+    "googlePlay": "Scarica su Android"
+  },
+  "features": {
+    "sectionTitle": "Privacy Totale, Nessun Compromesso",
+    "sectionSubtitle": "Ogni funzione progettata con un obiettivo: mantenere la tua vita privata privata.",
+    "calculator": {
+      "title": "Travestimento da Calcolatrice",
+      "desc": "Sembra e funziona come una vera calcolatrice. Inserisci il tuo PIN segreto per sbloccare il tuo caveau. Nessuno sospetta nulla."
+    },
+    "photos": {
+      "title": "Cassaforte Sicura per Foto e Video",
+      "desc": "Importa foto e video dalla tua galleria. Scompaiono dal tuo rullino e rimangono chiusi nel tuo caveau."
+    },
+    "dashboard": {
+      "title": "Tutti i File Protetti",
+      "desc": "Archivia foto, video, documenti, file audio e password — tutto criptato e protetto sul tuo dispositivo."
+    },
+    "customize": {
+      "title": "Personalizzazione Totale",
+      "desc": "Personalizza il travestimento della tua calcolatrice con diversi temi e colori per mimetizzarti perfettamente."
+    }
+  },
+  "security": {
+    "sectionTitle": "Sicurezza di Livello Militare",
+    "sectionSubtitle": "Costruito per la privacy fin dall'inizio. I tuoi dati non lasciano mai il tuo dispositivo.",
+    "items": [
+      {
+        "title": "Crittografia AES-256",
+        "desc": "La crittografia di livello militare protegge ogni file nel tuo caveau."
+      },
+      {
+        "title": "Nessun Cloud — Solo sul Dispositivo",
+        "desc": "I tuoi dati rimangono sul tuo dispositivo. Nessun server, nessun cloud, nessuna perdita."
+      },
+      {
+        "title": "Avvisi di Intrusione",
+        "desc": "Ricevi una notifica con foto se qualcuno cerca di accedere al tuo caveau."
+      },
+      {
+        "title": "Modalità Esca",
+        "desc": "Mostra un caveau falso vuoto se sei costretto ad aprirlo."
+      },
+      {
+        "title": "100% Gratuito",
+        "desc": "Tutte le funzionalità principali per la privacy sono completamente gratuite, per sempre."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Fidato da Milioni",
+    "sectionSubtitle": "Unisciti a milioni di persone che proteggono la loro privacy con Photo Vault ogni giorno.",
+    "items": [
+      {
+        "name": "Alex M.",
+        "role": "Utente Verificato",
+        "text": "Finalmente un'app che nasconde davvero le mie foto private. Il travestimento da calcolatrice è geniale — il mio partner usa il mio telefono sempre e non sa nulla. La adoro."
+      },
+      {
+        "name": "Jessica T.",
+        "role": "Utente Verificato",
+        "text": "Ero scettica all'inizio, ma questa app è incredibile. Le mie foto private sono al sicuro e la calcolatrice sembra completamente reale. Gli avvisi di intrusione sono un ottimo bonus."
+      },
+      {
+        "name": "David K.",
+        "role": "Utente Verificato",
+        "text": "La migliore app per la privacy che abbia mai usato. Funziona davvero come calcolatrice così nessuno sospetta nulla. La uso per foto, documenti e anche password. 10/10."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Proteggi la Tua Privacy Oggi",
+    "subtitle": "Scarica Photo Vault e nascondi le tue foto, video e file privati dietro una calcolatrice completamente funzionale. Gratis per sempre.",
+    "appStore": "Scarica su iOS",
+    "googlePlay": "Scarica su Android"
+  },
+  "articleCta": {
+    "title": "Proteggi la Tua Privacy con Photo Vault",
+    "subtitle": "Nascondi le tue foto e file privati dietro una calcolatrice funzionale. Gratis per iOS e Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "Il #1 caveau segreto di foto travestito da calcolatrice. Nascondi foto, video e file privati dietro una calcolatrice funzionale.",
+    "product": "Prodotto",
+    "features": "Funzionalità",
+    "security": "Sicurezza",
+    "download": "Scarica",
+    "resources": "Risorse",
+    "blog": "Blog",
+    "helpCenter": "Centro Assistenza",
+    "contact": "Contatto",
+    "legal": "Legale",
+    "privacy": "Informativa sulla Privacy",
+    "terms": "Termini di Servizio",
+    "cookies": "Informativa sui Cookie",
+    "copyright": "© 2026 Photo Vault. Tutti i diritti riservati.",
+    "madeWith": "Creato con Perplexity Computer"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Suggerimenti, guide e approfondimenti su privacy, sicurezza e protezione dei dati personali.",
+    "backToHome": "Torna alla Home",
+    "readMore": "Leggi",
+    "noArticles": "Ancora nessun articolo. Torna presto.",
+    "relatedArticles": "Articoli Correlati",
+    "backToBlog": "Torna al Blog",
+    "readArticle": "Leggi articolo"
+  }
+}

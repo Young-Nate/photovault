@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "features": "Fonctionnalités",
+    "security": "Sécurité",
+    "blog": "Blog",
+    "download": "Télécharger Gratuitement",
+    "home": "Accueil"
+  },
+  "hero": {
+    "badge": "#1 App de Confidentialité — Calculatrice avec Coffre Caché",
+    "title1": "Vos Secrets,",
+    "title2": "Cachés en Plain Vue",
+    "subtitle": "Une calculatrice entièrement fonctionnelle qui protège secrètement vos photos, vidéos, documents et mots de passe privés. Personne ne le saura jamais.",
+    "appStore": "Télécharger sur iOS",
+    "googlePlay": "Obtenir sur Android"
+  },
+  "features": {
+    "sectionTitle": "Confidentialité Totale, Zéro Compromis",
+    "sectionSubtitle": "Chaque fonctionnalité conçue avec un seul objectif : garder votre vie privée.",
+    "calculator": {
+      "title": "Déguisement en Calculatrice",
+      "desc": "Ressemble et fonctionne comme une vraie calculatrice. Entrez votre code PIN secret pour déverrouiller votre coffre. Personne ne soupçonne rien."
+    },
+    "photos": {
+      "title": "Coffre Sécurisé de Photos et Vidéos",
+      "desc": "Importez des photos et vidéos depuis votre galerie. Elles disparaissent de votre pellicule et restent verrouillées dans votre coffre."
+    },
+    "dashboard": {
+      "title": "Tous les Fichiers Protégés",
+      "desc": "Stockez photos, vidéos, documents, fichiers audio et mots de passe — tout chiffré et sécurisé sur votre appareil."
+    },
+    "customize": {
+      "title": "Personnalisation Totale",
+      "desc": "Personnalisez le déguisement de votre calculatrice avec différents thèmes et couleurs pour vous fondre parfaitement."
+    }
+  },
+  "security": {
+    "sectionTitle": "Sécurité de Niveau Militaire",
+    "sectionSubtitle": "Conçu pour la confidentialité depuis le début. Vos données ne quittent jamais votre appareil.",
+    "items": [
+      {
+        "title": "Chiffrement AES-256",
+        "desc": "Le chiffrement de niveau militaire protège chaque fichier dans votre coffre."
+      },
+      {
+        "title": "Sans Cloud — Uniquement sur l'Appareil",
+        "desc": "Vos données restent sur votre appareil. Pas de serveurs, pas de cloud, pas de fuites."
+      },
+      {
+        "title": "Alertes d'Intrusion",
+        "desc": "Recevez une notification avec photo si quelqu'un tente d'accéder à votre coffre."
+      },
+      {
+        "title": "Mode Leurre",
+        "desc": "Montrez un faux coffre vide si vous êtes forcé de l'ouvrir."
+      },
+      {
+        "title": "100% Gratuit",
+        "desc": "Toutes les fonctionnalités de confidentialité principales sont entièrement gratuites, pour toujours."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Approuvé par des Millions",
+    "sectionSubtitle": "Rejoignez des millions de personnes qui protègent leur vie privée avec Photo Vault chaque jour.",
+    "items": [
+      {
+        "name": "Alex M.",
+        "role": "Utilisateur Vérifié",
+        "text": "Enfin une app qui cache vraiment mes photos privées. Le déguisement en calculatrice est génial — mon partenaire utilise mon téléphone tout le temps et ne sait rien. J'adore."
+      },
+      {
+        "name": "Jessica T.",
+        "role": "Utilisateur Vérifié",
+        "text": "J'étais sceptique au début, mais cette app est incroyable. Mes photos privées sont en sécurité et la calculatrice semble complètement réelle. Les alertes d'intrusion sont un excellent bonus."
+      },
+      {
+        "name": "David K.",
+        "role": "Utilisateur Vérifié",
+        "text": "La meilleure app de confidentialité que j'ai utilisée. Elle fonctionne vraiment comme une calculatrice donc personne ne soupçonne rien. Je l'utilise pour les photos, documents et mots de passe. 10/10."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Protégez Votre Vie Privée Aujourd'hui",
+    "subtitle": "Téléchargez Photo Vault et cachez vos photos, vidéos et fichiers privés derrière une calculatrice entièrement fonctionnelle. Gratuit pour toujours.",
+    "appStore": "Télécharger sur iOS",
+    "googlePlay": "Obtenir sur Android"
+  },
+  "articleCta": {
+    "title": "Protégez Votre Vie Privée avec Photo Vault",
+    "subtitle": "Cachez vos photos et fichiers privés derrière une calculatrice fonctionnelle. Gratuit pour iOS et Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "Le #1 coffre secret de photos déguisé en calculatrice. Cachez photos, vidéos et fichiers privés derrière une calculatrice fonctionnelle.",
+    "product": "Produit",
+    "features": "Fonctionnalités",
+    "security": "Sécurité",
+    "download": "Télécharger",
+    "resources": "Ressources",
+    "blog": "Blog",
+    "helpCenter": "Centre d'Aide",
+    "contact": "Contact",
+    "legal": "Légal",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "cookies": "Politique des Cookies",
+    "copyright": "© 2026 Photo Vault. Tous droits réservés.",
+    "madeWith": "Créé avec Perplexity Computer"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Conseils, guides et informations sur la confidentialité, la sécurité et la protection des données personnelles.",
+    "backToHome": "Retour à l'Accueil",
+    "readMore": "Lire",
+    "noArticles": "Pas encore d'articles. Revenez bientôt.",
+    "relatedArticles": "Articles Connexes",
+    "backToBlog": "Retour au Blog",
+    "readArticle": "Lire l'article"
+  }
+}

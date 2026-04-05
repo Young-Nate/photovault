@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "features": "Features",
+    "security": "Security",
+    "blog": "Blog",
+    "download": "Download Free",
+    "home": "Home"
+  },
+  "hero": {
+    "badge": "#1 Privacy App — Hidden Calculator Vault",
+    "title1": "Your Secrets,",
+    "title2": "Hidden in Plain Sight",
+    "subtitle": "A fully functional calculator that secretly protects your private photos, videos, documents, and passwords. No one will ever know.",
+    "appStore": "Download on iOS",
+    "googlePlay": "Get it on Android"
+  },
+  "features": {
+    "sectionTitle": "Total Privacy, Zero Compromise",
+    "sectionSubtitle": "Every feature designed with one goal: keeping your private life private.",
+    "calculator": {
+      "title": "Calculator Disguise",
+      "desc": "Looks and works like a real calculator. Enter your secret PIN to unlock your vault. Nobody suspects a thing."
+    },
+    "photos": {
+      "title": "Secure Photo & Video Vault",
+      "desc": "Import photos and videos from your gallery. They disappear from your camera roll and stay locked in your vault."
+    },
+    "dashboard": {
+      "title": "All Files Protected",
+      "desc": "Store photos, videos, documents, audio files, and passwords — all encrypted and secured on your device."
+    },
+    "customize": {
+      "title": "Total Customization",
+      "desc": "Personalize your calculator disguise with different themes and colors to blend in perfectly."
+    }
+  },
+  "security": {
+    "sectionTitle": "Military-Grade Security",
+    "sectionSubtitle": "Built for privacy from the ground up. Your data never leaves your device.",
+    "items": [
+      {
+        "title": "AES-256 Encryption",
+        "desc": "Military-grade encryption protects every file in your vault."
+      },
+      {
+        "title": "No Cloud — On-Device Only",
+        "desc": "Your data stays on your device. No servers, no cloud, no leaks."
+      },
+      {
+        "title": "Break-In Alerts",
+        "desc": "Get notified with a photo if someone tries to access your vault."
+      },
+      {
+        "title": "Decoy Mode",
+        "desc": "Show a fake empty vault if you're ever forced to open it."
+      },
+      {
+        "title": "100% Free",
+        "desc": "All core privacy features are completely free, forever."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Trusted by Millions",
+    "sectionSubtitle": "Join millions of people who protect their privacy with Photo Vault every day.",
+    "items": [
+      {
+        "name": "Alex M.",
+        "role": "Verified User",
+        "text": "Finally an app that actually hides my private photos. The calculator disguise is genius — my partner uses my phone all the time and has no idea. Absolutely love it."
+      },
+      {
+        "name": "Jessica T.",
+        "role": "Verified User",
+        "text": "I was skeptical at first, but this app is amazing. My private photos are safe and the calculator looks completely real. The break-in alerts are a great bonus."
+      },
+      {
+        "name": "David K.",
+        "role": "Verified User",
+        "text": "The best privacy app I've ever used. It actually works as a calculator so nobody gets suspicious. I use it for photos, documents, and even passwords. 10/10."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Protect Your Privacy Today",
+    "subtitle": "Download Photo Vault and hide your private photos, videos, and files behind a fully working calculator. Free forever.",
+    "appStore": "Download on iOS",
+    "googlePlay": "Get it on Android"
+  },
+  "articleCta": {
+    "title": "Protect Your Privacy with Photo Vault",
+    "subtitle": "Hide your private photos and files behind a working calculator. Free for iOS and Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "The #1 secret photo vault disguised as a calculator. Hide private photos, videos, and files behind a working calculator.",
+    "product": "Product",
+    "features": "Features",
+    "security": "Security",
+    "download": "Download",
+    "resources": "Resources",
+    "blog": "Blog",
+    "helpCenter": "Help Center",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "copyright": "© 2026 Photo Vault. All rights reserved.",
+    "madeWith": "Created with Perplexity Computer"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Tips, guides, and insights on privacy, security, and protecting your personal data.",
+    "backToHome": "Back to Home",
+    "readMore": "Read",
+    "noArticles": "No articles yet. Check back soon.",
+    "relatedArticles": "Related Articles",
+    "backToBlog": "Back to Blog",
+    "readArticle": "Read article"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "features": "Funciones",
+    "security": "Seguridad",
+    "blog": "Blog",
+    "download": "Descargar Gratis",
+    "home": "Inicio"
+  },
+  "hero": {
+    "badge": "#1 App de Privacidad — Calculadora con Bóveda Oculta",
+    "title1": "Tus Secretos,",
+    "title2": "Ocultos a Plena Vista",
+    "subtitle": "Una calculadora completamente funcional que protege en secreto tus fotos privadas, videos, documentos y contraseñas. Nadie lo sabrá jamás.",
+    "appStore": "Descargar en iOS",
+    "googlePlay": "Obtener en Android"
+  },
+  "features": {
+    "sectionTitle": "Privacidad Total, Sin Compromisos",
+    "sectionSubtitle": "Cada función diseñada con un objetivo: mantener tu vida privada en privado.",
+    "calculator": {
+      "title": "Disfraz de Calculadora",
+      "desc": "Parece y funciona como una calculadora real. Ingresa tu PIN secreto para desbloquear tu bóveda. Nadie sospecha nada."
+    },
+    "photos": {
+      "title": "Bóveda Segura de Fotos y Videos",
+      "desc": "Importa fotos y videos de tu galería. Desaparecen de tu carrete y permanecen bloqueados en tu bóveda."
+    },
+    "dashboard": {
+      "title": "Todos los Archivos Protegidos",
+      "desc": "Almacena fotos, videos, documentos, archivos de audio y contraseñas — todo cifrado y asegurado en tu dispositivo."
+    },
+    "customize": {
+      "title": "Personalización Total",
+      "desc": "Personaliza el disfraz de tu calculadora con diferentes temas y colores para mezclarte perfectamente."
+    }
+  },
+  "security": {
+    "sectionTitle": "Seguridad de Nivel Militar",
+    "sectionSubtitle": "Construido para la privacidad desde cero. Tus datos nunca salen de tu dispositivo.",
+    "items": [
+      {
+        "title": "Cifrado AES-256",
+        "desc": "Cifrado de nivel militar protege cada archivo en tu bóveda."
+      },
+      {
+        "title": "Sin Nube — Solo en Dispositivo",
+        "desc": "Tus datos se quedan en tu dispositivo. Sin servidores, sin nube, sin filtraciones."
+      },
+      {
+        "title": "Alertas de Intrusión",
+        "desc": "Recibe una notificación con foto si alguien intenta acceder a tu bóveda."
+      },
+      {
+        "title": "Modo Señuelo",
+        "desc": "Muestra una bóveda falsa vacía si te obligan a abrirla."
+      },
+      {
+        "title": "100% Gratis",
+        "desc": "Todas las funciones de privacidad principales son completamente gratuitas, para siempre."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Confiado por Millones",
+    "sectionSubtitle": "Únete a millones de personas que protegen su privacidad con Photo Vault cada día.",
+    "items": [
+      {
+        "name": "Alex M.",
+        "role": "Usuario Verificado",
+        "text": "Por fin una app que realmente oculta mis fotos privadas. El disfraz de calculadora es genial — mi pareja usa mi teléfono todo el tiempo y no tiene idea. Me encanta."
+      },
+      {
+        "name": "Jessica T.",
+        "role": "Usuario Verificado",
+        "text": "Al principio era escéptica, pero esta app es increíble. Mis fotos privadas están seguras y la calculadora parece completamente real. Las alertas de intrusión son un gran plus."
+      },
+      {
+        "name": "David K.",
+        "role": "Usuario Verificado",
+        "text": "La mejor app de privacidad que he usado. Funciona como calculadora real para que nadie sospeche. La uso para fotos, documentos e incluso contraseñas. 10/10."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Protege Tu Privacidad Hoy",
+    "subtitle": "Descarga Photo Vault y oculta tus fotos, videos y archivos privados detrás de una calculadora completamente funcional. Gratis para siempre.",
+    "appStore": "Descargar en iOS",
+    "googlePlay": "Obtener en Android"
+  },
+  "articleCta": {
+    "title": "Protege Tu Privacidad con Photo Vault",
+    "subtitle": "Oculta tus fotos y archivos privados detrás de una calculadora funcional. Gratis para iOS y Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "La #1 bóveda secreta de fotos disfrazada de calculadora. Oculta fotos, videos y archivos privados detrás de una calculadora funcional.",
+    "product": "Producto",
+    "features": "Funciones",
+    "security": "Seguridad",
+    "download": "Descargar",
+    "resources": "Recursos",
+    "blog": "Blog",
+    "helpCenter": "Centro de Ayuda",
+    "contact": "Contacto",
+    "legal": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Política de Cookies",
+    "copyright": "© 2026 Photo Vault. Todos los derechos reservados.",
+    "madeWith": "Creado con Perplexity Computer"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Consejos, guías e información sobre privacidad, seguridad y protección de datos personales.",
+    "backToHome": "Volver al Inicio",
+    "readMore": "Leer",
+    "noArticles": "Aún no hay artículos. Vuelve pronto.",
+    "relatedArticles": "Artículos Relacionados",
+    "backToBlog": "Volver al Blog",
+    "readArticle": "Leer artículo"
+  }
+}

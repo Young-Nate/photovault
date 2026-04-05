@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "features": "Recursos",
+    "security": "Segurança",
+    "blog": "Blog",
+    "download": "Baixar Grátis",
+    "home": "Início"
+  },
+  "hero": {
+    "badge": "#1 App de Privacidade — Cofre Oculto em Calculadora",
+    "title1": "Seus Segredos,",
+    "title2": "Escondidos à Vista de Todos",
+    "subtitle": "Uma calculadora completamente funcional que protege secretamente suas fotos, vídeos, documentos e senhas privadas. Ninguém jamais saberá.",
+    "appStore": "Baixar no iOS",
+    "googlePlay": "Baixar no Android"
+  },
+  "features": {
+    "sectionTitle": "Privacidade Total, Zero Compromisso",
+    "sectionSubtitle": "Cada recurso projetado com um objetivo: manter sua vida privada em privado.",
+    "calculator": {
+      "title": "Disfarce de Calculadora",
+      "desc": "Parece e funciona como uma calculadora real. Digite seu PIN secreto para desbloquear seu cofre. Ninguém suspeita de nada."
+    },
+    "photos": {
+      "title": "Cofre Seguro de Fotos e Vídeos",
+      "desc": "Importe fotos e vídeos da sua galeria. Elas desaparecem do seu rolo de câmera e ficam trancadas no seu cofre."
+    },
+    "dashboard": {
+      "title": "Todos os Arquivos Protegidos",
+      "desc": "Armazene fotos, vídeos, documentos, arquivos de áudio e senhas — tudo criptografado e seguro no seu dispositivo."
+    },
+    "customize": {
+      "title": "Personalização Total",
+      "desc": "Personalize o disfarce da sua calculadora com diferentes temas e cores para se misturar perfeitamente."
+    }
+  },
+  "security": {
+    "sectionTitle": "Segurança de Nível Militar",
+    "sectionSubtitle": "Construído para privacidade desde o início. Seus dados nunca saem do seu dispositivo.",
+    "items": [
+      {
+        "title": "Criptografia AES-256",
+        "desc": "Criptografia de nível militar protege cada arquivo no seu cofre."
+      },
+      {
+        "title": "Sem Nuvem — Apenas no Dispositivo",
+        "desc": "Seus dados ficam no seu dispositivo. Sem servidores, sem nuvem, sem vazamentos."
+      },
+      {
+        "title": "Alertas de Invasão",
+        "desc": "Receba uma notificação com foto se alguém tentar acessar seu cofre."
+      },
+      {
+        "title": "Modo Engodo",
+        "desc": "Mostre um cofre falso vazio se for forçado a abri-lo."
+      },
+      {
+        "title": "100% Grátis",
+        "desc": "Todos os recursos principais de privacidade são completamente gratuitos, para sempre."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Confiado por Milhões",
+    "sectionSubtitle": "Junte-se a milhões de pessoas que protegem sua privacidade com Photo Vault todos os dias.",
+    "items": [
+      {
+        "name": "Alex M.",
+        "role": "Usuário Verificado",
+        "text": "Finalmente um app que realmente esconde minhas fotos privadas. O disfarce de calculadora é genial — meu parceiro usa meu telefone o tempo todo e não faz ideia. Amei."
+      },
+      {
+        "name": "Jessica T.",
+        "role": "Usuário Verificado",
+        "text": "Era cética no início, mas este app é incrível. Minhas fotos privadas estão seguras e a calculadora parece completamente real. Os alertas de invasão são um ótimo bônus."
+      },
+      {
+        "name": "David K.",
+        "role": "Usuário Verificado",
+        "text": "O melhor app de privacidade que já usei. Funciona de verdade como calculadora para que ninguém suspeite. Uso para fotos, documentos e até senhas. 10/10."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Proteja Sua Privacidade Hoje",
+    "subtitle": "Baixe o Photo Vault e esconda suas fotos, vídeos e arquivos privados atrás de uma calculadora completamente funcional. Grátis para sempre.",
+    "appStore": "Baixar no iOS",
+    "googlePlay": "Baixar no Android"
+  },
+  "articleCta": {
+    "title": "Proteja Sua Privacidade com Photo Vault",
+    "subtitle": "Esconda suas fotos e arquivos privados atrás de uma calculadora funcional. Grátis para iOS e Android.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "O #1 cofre secreto de fotos disfarçado de calculadora. Esconda fotos, vídeos e arquivos privados atrás de uma calculadora funcional.",
+    "product": "Produto",
+    "features": "Recursos",
+    "security": "Segurança",
+    "download": "Baixar",
+    "resources": "Recursos",
+    "blog": "Blog",
+    "helpCenter": "Central de Ajuda",
+    "contact": "Contato",
+    "legal": "Legal",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "cookies": "Política de Cookies",
+    "copyright": "© 2026 Photo Vault. Todos os direitos reservados.",
+    "madeWith": "Criado com Perplexity Computer"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Dicas, guias e insights sobre privacidade, segurança e proteção de dados pessoais.",
+    "backToHome": "Voltar ao Início",
+    "readMore": "Ler",
+    "noArticles": "Ainda sem artigos. Volte em breve.",
+    "relatedArticles": "Artigos Relacionados",
+    "backToBlog": "Voltar ao Blog",
+    "readArticle": "Ler artigo"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "features": "Özellikler",
+    "security": "Güvenlik",
+    "blog": "Blog",
+    "download": "Ücretsiz İndir",
+    "home": "Ana Sayfa"
+  },
+  "hero": {
+    "badge": "#1 Gizlilik Uygulaması — Hesap Makinesi'nde Gizli Kasa",
+    "title1": "Sırlarınız,",
+    "title2": "Gözler Önünde Gizli",
+    "subtitle": "Özel fotoğraflarınızı, videolarınızı, belgelerinizi ve şifrelerinizi gizlice koruyan tam işlevli bir hesap makinesi. Kimse asla öğrenemez.",
+    "appStore": "iOS'ta İndir",
+    "googlePlay": "Android'de Al"
+  },
+  "features": {
+    "sectionTitle": "Tam Gizlilik, Sıfır Ödün",
+    "sectionSubtitle": "Her özellik tek bir hedef için tasarlandı: özel hayatınızı özel tutmak.",
+    "calculator": {
+      "title": "Hesap Makinesi Kılığı",
+      "desc": "Gerçek bir hesap makinesi gibi görünür ve çalışır. Kasanızı açmak için gizli PIN'inizi girin. Kimse şüphelenmez."
+    },
+    "photos": {
+      "title": "Güvenli Fotoğraf ve Video Kasası",
+      "desc": "Galerinizdeki fotoğraf ve videoları içe aktarın. Kamera rulosundan kaybolurlar ve kasanızda kilitli kalırlar."
+    },
+    "dashboard": {
+      "title": "Tüm Dosyalar Korumalı",
+      "desc": "Fotoğraf, video, belge, ses dosyası ve şifre saklayın — hepsi şifreli ve cihazınızda güvende."
+    },
+    "customize": {
+      "title": "Tam Özelleştirme",
+      "desc": "Hesap makinesi kılığınızı farklı temalar ve renklerle kişiselleştirerek mükemmel şekilde karışın."
+    }
+  },
+  "security": {
+    "sectionTitle": "Askeri Düzeyde Güvenlik",
+    "sectionSubtitle": "Sıfırdan gizlilik için inşa edildi. Verileriniz asla cihazınızı terk etmez.",
+    "items": [
+      {
+        "title": "AES-256 Şifreleme",
+        "desc": "Askeri düzeyde şifreleme kasanızdaki her dosyayı korur."
+      },
+      {
+        "title": "Bulut Yok — Yalnızca Cihazda",
+        "desc": "Verileriniz cihazınızda kalır. Sunucu yok, bulut yok, sızıntı yok."
+      },
+      {
+        "title": "Sızma Uyarıları",
+        "desc": "Biri kasanıza erişmeye çalışırsa fotoğraflı bildirim alın."
+      },
+      {
+        "title": "Yem Modu",
+        "desc": "Açmaya zorlanırsanız sahte boş bir kasa gösterin."
+      },
+      {
+        "title": "100% Ücretsiz",
+        "desc": "Tüm temel gizlilik özellikleri tamamen ücretsiz, sonsuza kadar."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Milyonlarca Kişinin Güveni",
+    "sectionSubtitle": "Photo Vault ile her gün gizliliklerini koruyan milyonlarca kişiye katılın.",
+    "items": [
+      {
+        "name": "Alex M.",
+        "role": "Doğrulanmış Kullanıcı",
+        "text": "Sonunda özel fotoğraflarımı gerçekten gizleyen bir uygulama buldum. Hesap makinesi kılığı dahice — partnerim her zaman telefonumu kullanıyor ve hiçbir şeyden haberi yok. Çok sevdim."
+      },
+      {
+        "name": "Jessica T.",
+        "role": "Doğrulanmış Kullanıcı",
+        "text": "Başta şüpheciydim ama bu uygulama inanılmaz. Özel fotoğraflarım güvende ve hesap makinesi tamamen gerçek görünüyor. Sızma uyarıları harika bir bonus."
+      },
+      {
+        "name": "David K.",
+        "role": "Doğrulanmış Kullanıcı",
+        "text": "Kullandığım en iyi gizlilik uygulaması. Kimse şüphelenmesin diye gerçekten hesap makinesi olarak çalışıyor. Fotoğraf, belge ve şifreler için kullanıyorum. 10/10."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Gizliliğinizi Bugün Koruyun",
+    "subtitle": "Photo Vault'u indirin ve özel fotoğraflarınızı, videolarınızı ve dosyalarınızı tam işlevli bir hesap makinesi arkasında gizleyin. Sonsuza kadar ücretsiz.",
+    "appStore": "iOS'ta İndir",
+    "googlePlay": "Android'de Al"
+  },
+  "articleCta": {
+    "title": "Photo Vault ile Gizliliğinizi Koruyun",
+    "subtitle": "Özel fotoğraflarınızı ve dosyalarınızı çalışan bir hesap makinesi arkasında gizleyin. iOS ve Android için ücretsiz.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "Hesap makinesi kılığındaki #1 gizli fotoğraf kasası. Özel fotoğraf, video ve dosyaları çalışan bir hesap makinesi arkasında gizleyin.",
+    "product": "Ürün",
+    "features": "Özellikler",
+    "security": "Güvenlik",
+    "download": "İndir",
+    "resources": "Kaynaklar",
+    "blog": "Blog",
+    "helpCenter": "Yardım Merkezi",
+    "contact": "İletişim",
+    "legal": "Hukuki",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Hizmet Şartları",
+    "cookies": "Çerez Politikası",
+    "copyright": "© 2026 Photo Vault. Tüm hakları saklıdır.",
+    "madeWith": "Perplexity Computer ile oluşturuldu"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Gizlilik, güvenlik ve kişisel verilerin korunması hakkında ipuçları, rehberler ve içgörüler.",
+    "backToHome": "Ana Sayfaya Dön",
+    "readMore": "Oku",
+    "noArticles": "Henüz makale yok. Yakında tekrar kontrol edin.",
+    "relatedArticles": "İlgili Makaleler",
+    "backToBlog": "Bloga Dön",
+    "readArticle": "Makaleyi oku"
+  }
+}

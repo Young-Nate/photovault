@@ -1,0 +1,123 @@
+{
+  "nav": {
+    "features": "기능",
+    "security": "보안",
+    "blog": "블로그",
+    "download": "무료 다운로드",
+    "home": "홈"
+  },
+  "hero": {
+    "badge": "#1 개인정보 보호 앱 — 숨겨진 계산기 금고",
+    "title1": "당신의 비밀을,",
+    "title2": "눈에 띄는 곳에 숨기세요",
+    "subtitle": "개인 사진, 동영상, 문서, 비밀번호를 은밀하게 보호하는 완전히 작동하는 계산기. 아무도 알지 못할 것입니다.",
+    "appStore": "iOS에서 다운로드",
+    "googlePlay": "Android에서 받기"
+  },
+  "features": {
+    "sectionTitle": "완전한 개인정보 보호, 타협 없음",
+    "sectionSubtitle": "모든 기능이 하나의 목표를 위해 설계되었습니다: 당신의 사생활을 지키는 것.",
+    "calculator": {
+      "title": "계산기 위장",
+      "desc": "진짜 계산기처럼 보이고 작동합니다. 비밀 PIN을 입력하여 금고를 잠금 해제하세요. 아무도 의심하지 않습니다."
+    },
+    "photos": {
+      "title": "안전한 사진 및 동영상 금고",
+      "desc": "갤러리에서 사진과 동영상을 가져오세요. 카메라 롤에서 사라지고 금고에 잠겨 있습니다."
+    },
+    "dashboard": {
+      "title": "모든 파일 보호",
+      "desc": "사진, 동영상, 문서, 오디오 파일, 비밀번호 저장 — 모두 암호화되어 기기에 안전하게 보관."
+    },
+    "customize": {
+      "title": "완전한 커스터마이징",
+      "desc": "다양한 테마와 색상으로 계산기 위장을 개인화하여 완벽하게 어울리세요."
+    }
+  },
+  "security": {
+    "sectionTitle": "군사급 보안",
+    "sectionSubtitle": "처음부터 개인정보 보호를 위해 구축. 데이터가 기기를 떠나지 않습니다.",
+    "items": [
+      {
+        "title": "AES-256 암호화",
+        "desc": "군사급 암호화로 금고의 모든 파일을 보호합니다."
+      },
+      {
+        "title": "클라우드 없음 — 기기 전용",
+        "desc": "데이터가 기기에 남아있습니다. 서버 없음, 클라우드 없음, 누출 없음."
+      },
+      {
+        "title": "침입 알림",
+        "desc": "누군가가 금고에 접근하려 하면 사진과 함께 알림을 받습니다."
+      },
+      {
+        "title": "미끼 모드",
+        "desc": "강제로 열어야 할 경우 가짜 빈 금고를 표시합니다."
+      },
+      {
+        "title": "100% 무료",
+        "desc": "모든 핵심 개인정보 보호 기능은 완전히 무료, 영원히."
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "수백만 명이 신뢰",
+    "sectionSubtitle": "매일 Photo Vault로 개인정보를 보호하는 수백만 명에 합류하세요.",
+    "items": [
+      {
+        "name": "Alex M.",
+        "role": "인증된 사용자",
+        "text": "마침내 내 개인 사진을 실제로 숨겨주는 앱을 찾았습니다. 계산기 위장이 천재적입니다 — 파트너가 항상 내 폰을 사용하지만 전혀 모릅니다. 정말 사랑합니다."
+      },
+      {
+        "name": "Jessica T.",
+        "role": "인증된 사용자",
+        "text": "처음에는 의심스러웠지만, 이 앱은 놀랍습니다. 내 개인 사진이 안전하고 계산기는 완전히 진짜처럼 보입니다. 침입 알림은 훌륭한 보너스입니다."
+      },
+      {
+        "name": "David K.",
+        "role": "인증된 사용자",
+        "text": "사용해본 최고의 개인정보 보호 앱입니다. 아무도 의심하지 않도록 실제로 계산기로 작동합니다. 사진, 문서, 심지어 비밀번호에도 사용합니다. 10점 만점."
+      }
+    ]
+  },
+  "cta": {
+    "title": "오늘 당신의 개인정보를 보호하세요",
+    "subtitle": "Photo Vault를 다운로드하고 개인 사진, 동영상, 파일을 완전히 작동하는 계산기 뒤에 숨기세요. 영원히 무료.",
+    "appStore": "iOS에서 다운로드",
+    "googlePlay": "Android에서 받기"
+  },
+  "articleCta": {
+    "title": "Photo Vault로 개인정보를 보호하세요",
+    "subtitle": "개인 사진과 파일을 작동하는 계산기 뒤에 숨기세요. iOS와 Android에서 무료.",
+    "appStore": "App Store",
+    "googlePlay": "Google Play"
+  },
+  "footer": {
+    "tagline": "계산기로 위장한 #1 비밀 사진 금고. 개인 사진, 동영상, 파일을 작동하는 계산기 뒤에 숨기세요.",
+    "product": "제품",
+    "features": "기능",
+    "security": "보안",
+    "download": "다운로드",
+    "resources": "리소스",
+    "blog": "블로그",
+    "helpCenter": "도움말 센터",
+    "contact": "문의",
+    "legal": "법적 정보",
+    "privacy": "개인정보 처리방침",
+    "terms": "서비스 약관",
+    "cookies": "쿠키 정책",
+    "copyright": "© 2026 Photo Vault. 모든 권리 보유.",
+    "madeWith": "Perplexity Computer로 제작"
+  },
+  "blog": {
+    "title": "블로그",
+    "subtitle": "개인정보, 보안, 개인 데이터 보호에 관한 팁, 가이드 및 인사이트.",
+    "backToHome": "홈으로 돌아가기",
+    "readMore": "읽기",
+    "noArticles": "아직 기사가 없습니다. 곧 다시 확인하세요.",
+    "relatedArticles": "관련 기사",
+    "backToBlog": "블로그로 돌아가기",
+    "readArticle": "기사 읽기"
+  }
+}
