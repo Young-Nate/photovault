@@ -35,28 +35,24 @@
     }
   },
   "security": {
-    "sectionTitle": "Keamanan Tingkat Militer",
-    "sectionSubtitle": "Dibangun untuk privasi dari awal. Data Anda tidak pernah meninggalkan perangkat Anda.",
+    "sectionTitle": "Mengapa Photo Vault?",
+    "sectionSubtitle": "Sederhana, privat, dan dirancang untuk melindungi semua yang Anda pedulikan.",
     "items": [
       {
-        "title": "Enkripsi AES-256",
-        "desc": "Enkripsi tingkat militer melindungi setiap file di brankas Anda."
+        "title": "Privasi total",
+        "desc": "Brankas Anda tersembunyi di balik kalkulator asli. Tidak ada yang akan tahu keberadaannya."
       },
       {
-        "title": "Tanpa Cloud — Hanya di Perangkat",
-        "desc": "Data Anda tetap di perangkat Anda. Tidak ada server, tidak ada cloud, tidak ada kebocoran."
+        "title": "Tanpa cloud — 100% di perangkat",
+        "desc": "File Anda tidak pernah meninggalkan ponsel. Tanpa server, tanpa unggahan, tanpa risiko kebocoran."
       },
       {
-        "title": "Peringatan Penyusupan",
-        "desc": "Terima notifikasi dengan foto jika seseorang mencoba mengakses brankas Anda."
+        "title": "Semua jenis konten",
+        "desc": "Foto, video, dokumen, file audio, dan kata sandi — semuanya dilindungi dalam satu aplikasi."
       },
       {
-        "title": "Mode Umpan",
-        "desc": "Tampilkan brankas kosong palsu jika dipaksa untuk membukanya."
-      },
-      {
-        "title": "100% Gratis",
-        "desc": "Semua fitur privasi inti sepenuhnya gratis, selamanya."
+        "title": "Gratis dan mudah",
+        "desc": "Pengaturan dalam hitungan detik. Tanpa akun. Semua fitur inti gratis selamanya."
       }
     ]
   },

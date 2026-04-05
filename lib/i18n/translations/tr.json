@@ -35,28 +35,24 @@
     }
   },
   "security": {
-    "sectionTitle": "Askeri Düzeyde Güvenlik",
-    "sectionSubtitle": "Sıfırdan gizlilik için inşa edildi. Verileriniz asla cihazınızı terk etmez.",
+    "sectionTitle": "Neden Photo Vault?",
+    "sectionSubtitle": "Basit, özel ve önem verdiğiniz her şeyi korumak için tasarlanmış.",
     "items": [
       {
-        "title": "AES-256 Şifreleme",
-        "desc": "Askeri düzeyde şifreleme kasanızdaki her dosyayı korur."
+        "title": "Tam gizlilik",
+        "desc": "Kasanız gerçek bir hesap makinesinin arkasında gizli. Kimse var olduğunu bilemez."
       },
       {
-        "title": "Bulut Yok — Yalnızca Cihazda",
-        "desc": "Verileriniz cihazınızda kalır. Sunucu yok, bulut yok, sızıntı yok."
+        "title": "Bulut yok — %100 cihazda",
+        "desc": "Dosyalarınız telefonunuzdan asla çıkmaz. Sunucu yok, yükleme yok, sızıntı riski yok."
       },
       {
-        "title": "Sızma Uyarıları",
-        "desc": "Biri kasanıza erişmeye çalışırsa fotoğraflı bildirim alın."
+        "title": "Her türlü içerik",
+        "desc": "Fotoğraflar, videolar, belgeler, ses dosyaları ve şifreler — hepsi tek bir uygulamada korunur."
       },
       {
-        "title": "Yem Modu",
-        "desc": "Açmaya zorlanırsanız sahte boş bir kasa gösterin."
-      },
-      {
-        "title": "100% Ücretsiz",
-        "desc": "Tüm temel gizlilik özellikleri tamamen ücretsiz, sonsuza kadar."
+        "title": "Ücretsiz ve kolay",
+        "desc": "Saniyeler içinde kurulum. Hesap gerekmez. Tüm temel özellikler sonsuza kadar ücretsiz."
       }
     ]
   },

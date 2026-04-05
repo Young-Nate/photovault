@@ -35,28 +35,24 @@
     }
   },
   "security": {
-    "sectionTitle": "Military-Grade Security",
-    "sectionSubtitle": "Built for privacy from the ground up. Your data never leaves your device.",
+    "sectionTitle": "Why Photo Vault?",
+    "sectionSubtitle": "Simple, private, and designed to protect everything you care about.",
     "items": [
       {
-        "title": "AES-256 Encryption",
-        "desc": "Military-grade encryption protects every file in your vault."
+        "title": "Total Privacy",
+        "desc": "Your vault is hidden behind a real calculator. Nobody will ever know it exists."
       },
       {
-        "title": "No Cloud — On-Device Only",
-        "desc": "Your data stays on your device. No servers, no cloud, no leaks."
+        "title": "No Cloud — 100% On Device",
+        "desc": "Your files never leave your phone. No servers, no uploads, no risk of leaks."
       },
       {
-        "title": "Break-In Alerts",
-        "desc": "Get notified with a photo if someone tries to access your vault."
+        "title": "Every Type of Content",
+        "desc": "Photos, videos, documents, audio files, and passwords — all protected in one app."
       },
       {
-        "title": "Decoy Mode",
-        "desc": "Show a fake empty vault if you're ever forced to open it."
-      },
-      {
-        "title": "100% Free",
-        "desc": "All core privacy features are completely free, forever."
+        "title": "Free & Easy to Use",
+        "desc": "Set up in seconds. No account needed. All core features are free, forever."
       }
     ]
   },

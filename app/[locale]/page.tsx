@@ -78,6 +78,22 @@ function DollarSign({ className }: { className?: string }) {
   );
 }
 
+function Layers({ className }: { className?: string }) {
+  return (
+    <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="m12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83Z"/><path d="m22.4 10.08-8.58 3.91a2 2 0 0 1-1.66 0l-8.58-3.9"/><path d="m22.4 14.08-8.58 3.91a2 2 0 0 1-1.66 0l-8.58-3.9"/>
+    </svg>
+  );
+}
+
+function Heart({ className }: { className?: string }) {
+  return (
+    <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+      <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>
+    </svg>
+  );
+}
+
 function Star({ className }: { className?: string }) {
   return (
     <svg className={className} xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -151,7 +167,7 @@ export default function LandingPage({
     { icon: featureIcons[3], title: t.features.customize.title, description: t.features.customize.desc, image: featureImages[3] },
   ];
 
-  const securityIcons = [ShieldCheck, Cloud, Bell, EyeOff, DollarSign];
+  const securityIcons = [ShieldCheck, Cloud, Layers, Heart];
 
   return (
     <div className="min-h-screen bg-[#0F0F0F]">
@@ -267,7 +283,7 @@ export default function LandingPage({
               {t.security.sectionSubtitle}
             </p>
           </div>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          <div className="grid sm:grid-cols-2 gap-5">
             {t.security.items.map((item, i) => {
               const Icon = securityIcons[i] || ShieldCheck;
               return (

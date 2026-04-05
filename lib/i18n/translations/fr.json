@@ -35,28 +35,24 @@
     }
   },
   "security": {
-    "sectionTitle": "Sécurité de Niveau Militaire",
-    "sectionSubtitle": "Conçu pour la confidentialité depuis le début. Vos données ne quittent jamais votre appareil.",
+    "sectionTitle": "Pourquoi Photo Vault ?",
+    "sectionSubtitle": "Simple, privé et conçu pour protéger tout ce qui compte pour vous.",
     "items": [
       {
-        "title": "Chiffrement AES-256",
-        "desc": "Le chiffrement de niveau militaire protège chaque fichier dans votre coffre."
+        "title": "Confidentialité totale",
+        "desc": "Votre coffre-fort est caché derrière une vraie calculatrice. Personne ne saura qu'il existe."
       },
       {
-        "title": "Sans Cloud — Uniquement sur l'Appareil",
-        "desc": "Vos données restent sur votre appareil. Pas de serveurs, pas de cloud, pas de fuites."
+        "title": "Pas de cloud — 100% sur l'appareil",
+        "desc": "Vos fichiers ne quittent jamais votre téléphone. Aucun serveur, aucun risque de fuite."
       },
       {
-        "title": "Alertes d'Intrusion",
-        "desc": "Recevez une notification avec photo si quelqu'un tente d'accéder à votre coffre."
+        "title": "Tous types de contenu",
+        "desc": "Photos, vidéos, documents, fichiers audio et mots de passe — tout protégé dans une seule app."
       },
       {
-        "title": "Mode Leurre",
-        "desc": "Montrez un faux coffre vide si vous êtes forcé de l'ouvrir."
-      },
-      {
-        "title": "100% Gratuit",
-        "desc": "Toutes les fonctionnalités de confidentialité principales sont entièrement gratuites, pour toujours."
+        "title": "Gratuit et simple",
+        "desc": "Configuration en quelques secondes. Pas de compte requis. Toutes les fonctionnalités principales sont gratuites."
       }
     ]
   },

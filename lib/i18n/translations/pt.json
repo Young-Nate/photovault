@@ -35,28 +35,24 @@
     }
   },
   "security": {
-    "sectionTitle": "Segurança de Nível Militar",
-    "sectionSubtitle": "Construído para privacidade desde o início. Seus dados nunca saem do seu dispositivo.",
+    "sectionTitle": "Por que Photo Vault?",
+    "sectionSubtitle": "Simples, privado e projetado para proteger tudo o que importa para você.",
     "items": [
       {
-        "title": "Criptografia AES-256",
-        "desc": "Criptografia de nível militar protege cada arquivo no seu cofre."
+        "title": "Privacidade total",
+        "desc": "Seu cofre está escondido atrás de uma calculadora real. Ninguém vai saber que ele existe."
       },
       {
-        "title": "Sem Nuvem — Apenas no Dispositivo",
-        "desc": "Seus dados ficam no seu dispositivo. Sem servidores, sem nuvem, sem vazamentos."
+        "title": "Sem nuvem — 100% no dispositivo",
+        "desc": "Seus arquivos nunca saem do seu celular. Sem servidores, sem uploads, sem risco de vazamentos."
       },
       {
-        "title": "Alertas de Invasão",
-        "desc": "Receba uma notificação com foto se alguém tentar acessar seu cofre."
+        "title": "Todo tipo de conteúdo",
+        "desc": "Fotos, vídeos, documentos, arquivos de áudio e senhas — tudo protegido em um só app."
       },
       {
-        "title": "Modo Engodo",
-        "desc": "Mostre um cofre falso vazio se for forçado a abri-lo."
-      },
-      {
-        "title": "100% Grátis",
-        "desc": "Todos os recursos principais de privacidade são completamente gratuitos, para sempre."
+        "title": "Grátis e fácil de usar",
+        "desc": "Configure em segundos. Sem conta necessária. Todos os recursos principais são gratuitos para sempre."
       }
     ]
   },

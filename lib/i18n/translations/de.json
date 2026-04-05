@@ -35,28 +35,24 @@
     }
   },
   "security": {
-    "sectionTitle": "Militärgrade Sicherheit",
-    "sectionSubtitle": "Von Grund auf für Datenschutz entwickelt. Ihre Daten verlassen niemals Ihr Gerät.",
+    "sectionTitle": "Warum Photo Vault?",
+    "sectionSubtitle": "Einfach, privat und entwickelt, um alles zu schützen, was Ihnen wichtig ist.",
     "items": [
       {
-        "title": "AES-256 Verschlüsselung",
-        "desc": "Militärgrade Verschlüsselung schützt jede Datei in Ihrem Tresor."
+        "title": "Absolute Privatsphäre",
+        "desc": "Ihr Tresor versteckt sich hinter einem echten Taschenrechner. Niemand wird wissen, dass er existiert."
       },
       {
-        "title": "Kein Cloud — Nur auf dem Gerät",
-        "desc": "Ihre Daten bleiben auf Ihrem Gerät. Keine Server, keine Cloud, keine Datenlecks."
+        "title": "Keine Cloud — 100% auf dem Gerät",
+        "desc": "Ihre Dateien verlassen nie Ihr Telefon. Keine Server, kein Upload, kein Risiko."
       },
       {
-        "title": "Einbruchalarme",
-        "desc": "Erhalten Sie eine Benachrichtigung mit Foto, wenn jemand versucht, Ihren Tresor zu öffnen."
+        "title": "Jede Art von Inhalt",
+        "desc": "Fotos, Videos, Dokumente, Audiodateien und Passwörter — alles in einer App geschützt."
       },
       {
-        "title": "Köder-Modus",
-        "desc": "Zeigen Sie einen gefälschten leeren Tresor, wenn Sie gezwungen werden, ihn zu öffnen."
-      },
-      {
-        "title": "100% Kostenlos",
-        "desc": "Alle grundlegenden Datenschutzfunktionen sind völlig kostenlos, für immer."
+        "title": "Kostenlos & einfach",
+        "desc": "In Sekunden eingerichtet. Kein Konto nötig. Alle Kernfunktionen sind für immer kostenlos."
       }
     ]
   },

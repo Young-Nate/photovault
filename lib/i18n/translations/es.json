@@ -35,28 +35,24 @@
     }
   },
   "security": {
-    "sectionTitle": "Seguridad de Nivel Militar",
-    "sectionSubtitle": "Construido para la privacidad desde cero. Tus datos nunca salen de tu dispositivo.",
+    "sectionTitle": "¿Por qué Photo Vault?",
+    "sectionSubtitle": "Simple, privado y diseñado para proteger todo lo que te importa.",
     "items": [
       {
-        "title": "Cifrado AES-256",
-        "desc": "Cifrado de nivel militar protege cada archivo en tu bóveda."
+        "title": "Privacidad total",
+        "desc": "Tu bóveda está oculta detrás de una calculadora real. Nadie sabrá que existe."
       },
       {
-        "title": "Sin Nube — Solo en Dispositivo",
-        "desc": "Tus datos se quedan en tu dispositivo. Sin servidores, sin nube, sin filtraciones."
+        "title": "Sin nube — 100% en el dispositivo",
+        "desc": "Tus archivos nunca salen de tu teléfono. Sin servidores, sin cargas, sin riesgo de filtraciones."
       },
       {
-        "title": "Alertas de Intrusión",
-        "desc": "Recibe una notificación con foto si alguien intenta acceder a tu bóveda."
+        "title": "Todo tipo de contenido",
+        "desc": "Fotos, videos, documentos, archivos de audio y contraseñas — todo protegido en una sola app."
       },
       {
-        "title": "Modo Señuelo",
-        "desc": "Muestra una bóveda falsa vacía si te obligan a abrirla."
-      },
-      {
-        "title": "100% Gratis",
-        "desc": "Todas las funciones de privacidad principales son completamente gratuitas, para siempre."
+        "title": "Gratis y fácil de usar",
+        "desc": "Configúralo en segundos. Sin cuenta necesaria. Todas las funciones principales son gratuitas."
       }
     ]
   },

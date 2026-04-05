@@ -35,28 +35,24 @@
     }
   },
   "security": {
-    "sectionTitle": "Sicurezza di Livello Militare",
-    "sectionSubtitle": "Costruito per la privacy fin dall'inizio. I tuoi dati non lasciano mai il tuo dispositivo.",
+    "sectionTitle": "Perché Photo Vault?",
+    "sectionSubtitle": "Semplice, privato e progettato per proteggere tutto ciò che conta.",
     "items": [
       {
-        "title": "Crittografia AES-256",
-        "desc": "La crittografia di livello militare protegge ogni file nel tuo caveau."
+        "title": "Privacy totale",
+        "desc": "Il tuo vault è nascosto dietro una vera calcolatrice. Nessuno saprà che esiste."
       },
       {
-        "title": "Nessun Cloud — Solo sul Dispositivo",
-        "desc": "I tuoi dati rimangono sul tuo dispositivo. Nessun server, nessun cloud, nessuna perdita."
+        "title": "Nessun cloud — 100% sul dispositivo",
+        "desc": "I tuoi file non lasciano mai il telefono. Nessun server, nessun upload, nessun rischio."
       },
       {
-        "title": "Avvisi di Intrusione",
-        "desc": "Ricevi una notifica con foto se qualcuno cerca di accedere al tuo caveau."
+        "title": "Ogni tipo di contenuto",
+        "desc": "Foto, video, documenti, file audio e password — tutto protetto in un'unica app."
       },
       {
-        "title": "Modalità Esca",
-        "desc": "Mostra un caveau falso vuoto se sei costretto ad aprirlo."
-      },
-      {
-        "title": "100% Gratuito",
-        "desc": "Tutte le funzionalità principali per la privacy sono completamente gratuite, per sempre."
+        "title": "Gratuito e facile",
+        "desc": "Configurazione in pochi secondi. Nessun account richiesto. Tutte le funzioni principali sono gratuite per sempre."
       }
     ]
   },
