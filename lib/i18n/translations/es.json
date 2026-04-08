@@ -4,7 +4,8 @@
     "security": "Seguridad",
     "blog": "Blog",
     "download": "Descargar Gratis",
-    "home": "Inicio"
+    "home": "Inicio",
+    "brand": "Vaulty"
   },
   "hero": {
     "badge": "#1 App de Privacidad — Calculadora con Bóveda Oculta",
@@ -12,7 +13,8 @@
     "title2": "Ocultos a Plena Vista",
     "subtitle": "Una calculadora completamente funcional que protege en secreto tus fotos privadas, videos, documentos y contraseñas. Nadie lo sabrá jamás.",
     "appStore": "Descargar en iOS",
-    "googlePlay": "Obtener en Android"
+    "googlePlay": "Obtener en Android",
+    "tagline": "Tu bóveda secreta, oculta a plena vista."
   },
   "features": {
     "sectionTitle": "Privacidad Total, Sin Compromisos",
@@ -115,5 +117,10 @@
     "relatedArticles": "Artículos Relacionados",
     "backToBlog": "Volver al Blog",
     "readArticle": "Leer artículo"
+  },
+  "brand": {
+    "name": "Vaulty",
+    "fullName": "Vaulty: Caja Fuerte Oculta de Fotos",
+    "tagline": "Tu bóveda secreta, oculta a plena vista."
   }
 }

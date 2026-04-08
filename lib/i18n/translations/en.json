@@ -4,7 +4,8 @@
     "security": "Security",
     "blog": "Blog",
     "download": "Download Free",
-    "home": "Home"
+    "home": "Home",
+    "brand": "Vaulty"
   },
   "hero": {
     "badge": "#1 Privacy App — Hidden Calculator Vault",
@@ -12,7 +13,8 @@
     "title2": "Hidden in Plain Sight",
     "subtitle": "A fully functional calculator that secretly protects your private photos, videos, documents, and passwords. No one will ever know.",
     "appStore": "Download on iOS",
-    "googlePlay": "Get it on Android"
+    "googlePlay": "Get it on Android",
+    "tagline": "Your secret vault, hidden in plain sight."
   },
   "features": {
     "sectionTitle": "Total Privacy, Zero Compromise",
@@ -115,5 +117,10 @@
     "relatedArticles": "Related Articles",
     "backToBlog": "Back to Blog",
     "readArticle": "Read article"
+  },
+  "brand": {
+    "name": "Vaulty",
+    "fullName": "Vaulty: Hidden Photo Vault",
+    "tagline": "Your secret vault, hidden in plain sight."
   }
 }

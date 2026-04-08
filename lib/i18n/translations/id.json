@@ -4,7 +4,8 @@
     "security": "Keamanan",
     "blog": "Blog",
     "download": "Unduh Gratis",
-    "home": "Beranda"
+    "home": "Beranda",
+    "brand": "Vaulty"
   },
   "hero": {
     "badge": "#1 Aplikasi Privasi — Brankas Tersembunyi di Kalkulator",
@@ -12,7 +13,8 @@
     "title2": "Tersembunyi di Tempat Terang",
     "subtitle": "Kalkulator yang sepenuhnya berfungsi yang diam-diam melindungi foto, video, dokumen, dan kata sandi pribadi Anda. Tidak ada yang akan pernah tahu.",
     "appStore": "Unduh di iOS",
-    "googlePlay": "Dapatkan di Android"
+    "googlePlay": "Dapatkan di Android",
+    "tagline": "Brankas rahasia Anda, tersembunyi di depan mata."
   },
   "features": {
     "sectionTitle": "Privasi Total, Tanpa Kompromi",
@@ -115,5 +117,10 @@
     "relatedArticles": "Artikel Terkait",
     "backToBlog": "Kembali ke Blog",
     "readArticle": "Baca artikel"
+  },
+  "brand": {
+    "name": "Vaulty",
+    "fullName": "Vaulty: Brankas Foto Tersembunyi",
+    "tagline": "Brankas rahasia Anda, tersembunyi di depan mata."
   }
 }

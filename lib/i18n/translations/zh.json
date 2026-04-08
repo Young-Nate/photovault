@@ -4,7 +4,8 @@
     "security": "安全",
     "blog": "博客",
     "download": "免费下载",
-    "home": "首页"
+    "home": "首页",
+    "brand": "Vaulty"
   },
   "hero": {
     "badge": "#1 隐私应用 — 隐藏计算器保险库",
@@ -12,7 +13,8 @@
     "title2": "隐藏在显眼处",
     "subtitle": "一个完全功能的计算器，秘密保护您的私人照片、视频、文档和密码。没有人会知道。",
     "appStore": "在 iOS 上下载",
-    "googlePlay": "在 Android 上获取"
+    "googlePlay": "在 Android 上获取",
+    "tagline": "您的秘密保险库，隐藏在众目睽睽之下。"
   },
   "features": {
     "sectionTitle": "全面隐私，零妥协",
@@ -115,5 +117,10 @@
     "relatedArticles": "相关文章",
     "backToBlog": "返回博客",
     "readArticle": "阅读文章"
+  },
+  "brand": {
+    "name": "Vaulty",
+    "fullName": "Vaulty：隐藏式照片保险库",
+    "tagline": "您的秘密保险库，隐藏在众目睽睽之下。"
   }
 }

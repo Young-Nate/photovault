@@ -4,7 +4,8 @@
     "security": "Güvenlik",
     "blog": "Blog",
     "download": "Ücretsiz İndir",
-    "home": "Ana Sayfa"
+    "home": "Ana Sayfa",
+    "brand": "Vaulty"
   },
   "hero": {
     "badge": "#1 Gizlilik Uygulaması — Hesap Makinesi'nde Gizli Kasa",
@@ -12,7 +13,8 @@
     "title2": "Gözler Önünde Gizli",
     "subtitle": "Özel fotoğraflarınızı, videolarınızı, belgelerinizi ve şifrelerinizi gizlice koruyan tam işlevli bir hesap makinesi. Kimse asla öğrenemez.",
     "appStore": "iOS'ta İndir",
-    "googlePlay": "Android'de Al"
+    "googlePlay": "Android'de Al",
+    "tagline": "Gizli kasanız, gözler önünde saklı."
   },
   "features": {
     "sectionTitle": "Tam Gizlilik, Sıfır Ödün",
@@ -115,5 +117,10 @@
     "relatedArticles": "İlgili Makaleler",
     "backToBlog": "Bloga Dön",
     "readArticle": "Makaleyi oku"
+  },
+  "brand": {
+    "name": "Vaulty",
+    "fullName": "Vaulty: Gizli Fotoğraf Kasası",
+    "tagline": "Gizli kasanız, gözler önünde saklı."
   }
 }

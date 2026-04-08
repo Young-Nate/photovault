@@ -4,7 +4,8 @@
     "security": "Sicherheit",
     "blog": "Blog",
     "download": "Kostenlos Herunterladen",
-    "home": "Startseite"
+    "home": "Startseite",
+    "brand": "Vaulty"
   },
   "hero": {
     "badge": "#1 Datenschutz-App — Versteckter Taschenrechner-Tresor",
@@ -12,7 +13,8 @@
     "title2": "Versteckt in Sichtweite",
     "subtitle": "Ein voll funktionsfähiger Taschenrechner, der heimlich Ihre privaten Fotos, Videos, Dokumente und Passwörter schützt. Niemand wird es je wissen.",
     "appStore": "Im App Store laden",
-    "googlePlay": "Bei Google Play holen"
+    "googlePlay": "Bei Google Play holen",
+    "tagline": "Dein geheimer Tresor, versteckt vor allen Augen."
   },
   "features": {
     "sectionTitle": "Totale Privatsphäre, Kein Kompromiss",
@@ -115,5 +117,10 @@
     "relatedArticles": "Verwandte Artikel",
     "backToBlog": "Zurück zum Blog",
     "readArticle": "Artikel lesen"
+  },
+  "brand": {
+    "name": "Vaulty",
+    "fullName": "Vaulty: Versteckter Foto-Tresor",
+    "tagline": "Dein geheimer Tresor, versteckt vor allen Augen."
   }
 }

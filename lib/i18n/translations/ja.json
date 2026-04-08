@@ -4,7 +4,8 @@
     "security": "セキュリティ",
     "blog": "ブログ",
     "download": "無料ダウンロード",
-    "home": "ホーム"
+    "home": "ホーム",
+    "brand": "Vaulty"
   },
   "hero": {
     "badge": "#1 プライバシーアプリ — 隠し電卓ボルト",
@@ -12,7 +13,8 @@
     "title2": "目に見える場所に隠す",
     "subtitle": "プライベートな写真、動画、書類、パスワードを秘密裏に保護する完全に機能する電卓。誰も知ることはありません。",
     "appStore": "App Storeでダウンロード",
-    "googlePlay": "Google Playで入手"
+    "googlePlay": "Google Playで入手",
+    "tagline": "あなたの秘密の保管庫、見えないところに隠されています。"
   },
   "features": {
     "sectionTitle": "完全なプライバシー、妥協なし",
@@ -115,5 +117,10 @@
     "relatedArticles": "関連記事",
     "backToBlog": "ブログに戻る",
     "readArticle": "記事を読む"
+  },
+  "brand": {
+    "name": "Vaulty",
+    "fullName": "Vaulty：隠し写真保管庫",
+    "tagline": "あなたの秘密の保管庫、見えないところに隠されています。"
   }
 }
