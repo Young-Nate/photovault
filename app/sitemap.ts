@@ -4,7 +4,7 @@ import { blogPosts } from "@/lib/schema";
 import { desc } from "drizzle-orm";
 import { locales } from "@/lib/i18n/config";
 
-const BASE_URL = "https://photovaultapp.com";
+const BASE_URL = "https://calcsafe.com";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const now = new Date();

@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 import { isValidLocale, rtlLocales, locales } from "@/lib/i18n/config";
 import type { Locale } from "@/lib/i18n/config";
 
-const BASE_URL = "https://vaultyapp.com";
+const BASE_URL = "https://calcsafe.com";
 
 export async function generateMetadata({
   params,
