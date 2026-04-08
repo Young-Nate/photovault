@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "Photo Vault: Calculator Safe — Hide Photos, Videos & Files",
+    default: "Vaulty: Hidden Photo Vault — Hide Photos, Videos & Files",
     template: "%s | Photo Vault",
   },
   description:
@@ -21,14 +21,14 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     siteName: "Photo Vault",
-    title: "Photo Vault: Calculator Safe — Hide Photos, Videos & Files",
+    title: "Vaulty: Hidden Photo Vault — Hide Photos, Videos & Files",
     description:
       "Hide private photos, videos, and files behind a working calculator. No one will ever know.",
     images: ["/images/screenshot-calculator.jpg"],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Photo Vault: Calculator Safe — Hide Photos, Videos & Files",
+    title: "Vaulty: Hidden Photo Vault — Hide Photos, Videos & Files",
     description:
       "Hide private photos, videos, and files behind a working calculator.",
     images: ["/images/screenshot-calculator.jpg"],
