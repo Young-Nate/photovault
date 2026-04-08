@@ -216,7 +216,7 @@ export default function LandingPage({
                 <div className="absolute -inset-8 bg-[#E53935]/15 rounded-[3rem] blur-3xl" />
                 <Image
                   src="/images/screenshot-calculator.jpg"
-                  alt="Vaulty calculator disguise"
+                  alt="CalcSafe calculator disguise"
                   width={280}
                   height={560}
                   className="relative w-[260px] sm:w-[280px] rounded-[2rem] shadow-2xl border border-white/10"
@@ -272,7 +272,7 @@ export default function LandingPage({
         </div>
       </section>
 
-      {/* Security / Why Vaulty Section */}
+      {/* Security / Why CalcSafe Section */}
       <section id="security" className="py-20 sm:py-28 bg-[#0A0A0A]">
         <div className="max-w-6xl mx-auto px-4 sm:px-6">
           <div className="text-center mb-14">

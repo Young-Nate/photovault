@@ -5,7 +5,7 @@
     "blog": "Blog",
     "download": "Ücretsiz İndir",
     "home": "Ana Sayfa",
-    "brand": "Vaulty"
+    "brand": "CalcSafe"
   },
   "hero": {
     "badge": "#1 Gizlilik Uygulaması — Hesap Makinesi'nde Gizli Kasa",
@@ -14,7 +14,7 @@
     "subtitle": "Özel fotoğraflarınızı, videolarınızı, belgelerinizi ve şifrelerinizi gizlice koruyan tam işlevli bir hesap makinesi. Kimse asla öğrenemez.",
     "appStore": "iOS'ta İndir",
     "googlePlay": "Android'de Al",
-    "tagline": "Gizli kasanız, gözler önünde saklı."
+    "tagline": "Bir hesap makinesinin arkasında gizli kasanız."
   },
   "features": {
     "sectionTitle": "Tam Gizlilik, Sıfır Ödün",
@@ -119,8 +119,8 @@
     "readArticle": "Makaleyi oku"
   },
   "brand": {
-    "name": "Vaulty",
-    "fullName": "Vaulty: Gizli Fotoğraf Kasası",
-    "tagline": "Gizli kasanız, gözler önünde saklı."
+    "name": "CalcSafe",
+    "fullName": "CalcSafe: Gizli Fotoğraf Kasası",
+    "tagline": "Bir hesap makinesinin arkasında gizli kasanız."
   }
 }

@@ -5,7 +5,7 @@
     "blog": "Blog",
     "download": "Baixar Grátis",
     "home": "Início",
-    "brand": "Vaulty"
+    "brand": "CalcSafe"
   },
   "hero": {
     "badge": "#1 App de Privacidade — Cofre Oculto em Calculadora",
@@ -14,7 +14,7 @@
     "subtitle": "Uma calculadora completamente funcional que protege secretamente suas fotos, vídeos, documentos e senhas privadas. Ninguém jamais saberá.",
     "appStore": "Baixar no iOS",
     "googlePlay": "Baixar no Android",
-    "tagline": "Seu cofre secreto, escondido à vista de todos."
+    "tagline": "Seu cofre secreto, escondido atrás de uma calculadora."
   },
   "features": {
     "sectionTitle": "Privacidade Total, Zero Compromisso",
@@ -119,8 +119,8 @@
     "readArticle": "Ler artigo"
   },
   "brand": {
-    "name": "Vaulty",
-    "fullName": "Vaulty: Cofre de Fotos Oculto",
-    "tagline": "Seu cofre secreto, escondido à vista de todos."
+    "name": "CalcSafe",
+    "fullName": "CalcSafe: Cofre de Fotos Oculto",
+    "tagline": "Seu cofre secreto, escondido atrás de uma calculadora."
   }
 }

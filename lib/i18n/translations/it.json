@@ -5,7 +5,7 @@
     "blog": "Blog",
     "download": "Scarica Gratis",
     "home": "Home",
-    "brand": "Vaulty"
+    "brand": "CalcSafe"
   },
   "hero": {
     "badge": "#1 App per la Privacy — Cassaforte Nascosta nella Calcolatrice",
@@ -14,7 +14,7 @@
     "subtitle": "Una calcolatrice completamente funzionale che protegge segretamente le tue foto, video, documenti e password privati. Nessuno lo saprà mai.",
     "appStore": "Scarica su iOS",
     "googlePlay": "Scarica su Android",
-    "tagline": "Il tuo caveau segreto, nascosto in bella vista."
+    "tagline": "Il tuo caveau segreto, nascosto dietro una calcolatrice."
   },
   "features": {
     "sectionTitle": "Privacy Totale, Nessun Compromesso",
@@ -119,8 +119,8 @@
     "readArticle": "Leggi articolo"
   },
   "brand": {
-    "name": "Vaulty",
-    "fullName": "Vaulty: Cassaforte Foto Nascosta",
-    "tagline": "Il tuo caveau segreto, nascosto in bella vista."
+    "name": "CalcSafe",
+    "fullName": "CalcSafe: Cassaforte Foto Nascosta",
+    "tagline": "Il tuo caveau segreto, nascosto dietro una calcolatrice."
   }
 }

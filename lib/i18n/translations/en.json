@@ -5,7 +5,7 @@
     "blog": "Blog",
     "download": "Download Free",
     "home": "Home",
-    "brand": "Vaulty"
+    "brand": "CalcSafe"
   },
   "hero": {
     "badge": "#1 Privacy App — Hidden Calculator Vault",
@@ -14,7 +14,7 @@
     "subtitle": "A fully functional calculator that secretly protects your private photos, videos, documents, and passwords. No one will ever know.",
     "appStore": "Download on iOS",
     "googlePlay": "Get it on Android",
-    "tagline": "Your secret vault, hidden in plain sight."
+    "tagline": "Your secret vault, hidden behind a calculator."
   },
   "features": {
     "sectionTitle": "Total Privacy, Zero Compromise",
@@ -119,8 +119,8 @@
     "readArticle": "Read article"
   },
   "brand": {
-    "name": "Vaulty",
-    "fullName": "Vaulty: Hidden Photo Vault",
-    "tagline": "Your secret vault, hidden in plain sight."
+    "name": "CalcSafe",
+    "fullName": "CalcSafe: Hidden Photo Vault",
+    "tagline": "Your secret vault, hidden behind a calculator."
   }
 }

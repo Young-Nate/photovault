@@ -5,7 +5,7 @@
     "blog": "Blog",
     "download": "Kostenlos Herunterladen",
     "home": "Startseite",
-    "brand": "Vaulty"
+    "brand": "CalcSafe"
   },
   "hero": {
     "badge": "#1 Datenschutz-App — Versteckter Taschenrechner-Tresor",
@@ -14,7 +14,7 @@
     "subtitle": "Ein voll funktionsfähiger Taschenrechner, der heimlich Ihre privaten Fotos, Videos, Dokumente und Passwörter schützt. Niemand wird es je wissen.",
     "appStore": "Im App Store laden",
     "googlePlay": "Bei Google Play holen",
-    "tagline": "Dein geheimer Tresor, versteckt vor allen Augen."
+    "tagline": "Dein geheimer Tresor, hinter einem Taschenrechner verborgen."
   },
   "features": {
     "sectionTitle": "Totale Privatsphäre, Kein Kompromiss",
@@ -119,8 +119,8 @@
     "readArticle": "Artikel lesen"
   },
   "brand": {
-    "name": "Vaulty",
-    "fullName": "Vaulty: Versteckter Foto-Tresor",
-    "tagline": "Dein geheimer Tresor, versteckt vor allen Augen."
+    "name": "CalcSafe",
+    "fullName": "CalcSafe: Versteckter Foto-Tresor",
+    "tagline": "Dein geheimer Tresor, hinter einem Taschenrechner verborgen."
   }
 }

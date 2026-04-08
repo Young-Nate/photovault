@@ -50,7 +50,7 @@ export function Footer({ locale, t }: FooterProps) {
           <div>
             <div className="flex items-center gap-2.5 mb-4">
               <ShieldLockIcon className="w-6 h-6" />
-              <span className="font-bold text-base text-foreground">Vaulty</span>
+              <span className="font-bold text-base text-foreground">CalcSafe</span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed">
               {t.footer.tagline}
@@ -180,7 +180,7 @@ export function BlogFooter({ t }: BlogFooterProps) {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4">
         <div className="flex items-center gap-2">
           <ShieldLockIcon className="w-5 h-5" />
-          <span className="text-sm font-medium text-foreground">Vaulty</span>
+          <span className="text-sm font-medium text-foreground">CalcSafe</span>
         </div>
         <a
           href="https://www.perplexity.ai/computer"

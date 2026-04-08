@@ -5,7 +5,7 @@
     "blog": "Blog",
     "download": "Descargar Gratis",
     "home": "Inicio",
-    "brand": "Vaulty"
+    "brand": "CalcSafe"
   },
   "hero": {
     "badge": "#1 App de Privacidad — Calculadora con Bóveda Oculta",
@@ -14,7 +14,7 @@
     "subtitle": "Una calculadora completamente funcional que protege en secreto tus fotos privadas, videos, documentos y contraseñas. Nadie lo sabrá jamás.",
     "appStore": "Descargar en iOS",
     "googlePlay": "Obtener en Android",
-    "tagline": "Tu bóveda secreta, oculta a plena vista."
+    "tagline": "Tu bóveda secreta, oculta tras una calculadora."
   },
   "features": {
     "sectionTitle": "Privacidad Total, Sin Compromisos",
@@ -119,8 +119,8 @@
     "readArticle": "Leer artículo"
   },
   "brand": {
-    "name": "Vaulty",
-    "fullName": "Vaulty: Caja Fuerte Oculta de Fotos",
-    "tagline": "Tu bóveda secreta, oculta a plena vista."
+    "name": "CalcSafe",
+    "fullName": "CalcSafe: Caja Fuerte Oculta de Fotos",
+    "tagline": "Tu bóveda secreta, oculta tras una calculadora."
   }
 }

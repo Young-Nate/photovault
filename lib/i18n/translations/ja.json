@@ -5,7 +5,7 @@
     "blog": "ブログ",
     "download": "無料ダウンロード",
     "home": "ホーム",
-    "brand": "Vaulty"
+    "brand": "CalcSafe"
   },
   "hero": {
     "badge": "#1 プライバシーアプリ — 隠し電卓ボルト",
@@ -14,7 +14,7 @@
     "subtitle": "プライベートな写真、動画、書類、パスワードを秘密裏に保護する完全に機能する電卓。誰も知ることはありません。",
     "appStore": "App Storeでダウンロード",
     "googlePlay": "Google Playで入手",
-    "tagline": "あなたの秘密の保管庫、見えないところに隠されています。"
+    "tagline": "電卓の裏に隠されたあなたの秘密の保管庫。"
   },
   "features": {
     "sectionTitle": "完全なプライバシー、妥協なし",
@@ -119,8 +119,8 @@
     "readArticle": "記事を読む"
   },
   "brand": {
-    "name": "Vaulty",
-    "fullName": "Vaulty：隠し写真保管庫",
-    "tagline": "あなたの秘密の保管庫、見えないところに隠されています。"
+    "name": "CalcSafe",
+    "fullName": "CalcSafe：隠し写真保管庫",
+    "tagline": "電卓の裏に隠されたあなたの秘密の保管庫。"
   }
 }

@@ -5,7 +5,7 @@ import { LanguageSelector } from "@/components/language-selector";
 import type { Locale } from "@/lib/i18n/config";
 import type { Translations } from "@/lib/i18n";
 
-// Inline SVG shield/lock icon for Vaulty
+// Inline SVG shield/lock icon for CalcSafe
 function ShieldLockIcon({ className }: { className?: string }) {
   return (
     <svg
@@ -15,7 +15,7 @@ function ShieldLockIcon({ className }: { className?: string }) {
       height="32"
       viewBox="0 0 32 32"
       fill="none"
-      aria-label="Vaulty logo"
+      aria-label="CalcSafe logo"
     >
       <path
         d="M16 2L4 7v8c0 7.5 5.1 14.5 12 16.5C23 29.5 28 22.5 28 15V7L16 2z"
@@ -54,7 +54,7 @@ export function Navbar({ locale, t }: NavbarProps) {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
         <Link href={`/${locale}`} className="flex items-center gap-2.5">
           <ShieldLockIcon className="w-8 h-8" />
-          <span className="font-bold text-lg tracking-tight text-foreground">Vaulty</span>
+          <span className="font-bold text-lg tracking-tight text-foreground">CalcSafe</span>
         </Link>
         <div className="hidden md:flex items-center gap-8">
           <button
@@ -106,7 +106,7 @@ export function BlogNav({ locale, t, activePage }: BlogNavProps) {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
         <Link href={`/${locale}`} className="flex items-center gap-2.5">
           <ShieldLockIcon className="w-8 h-8" />
-          <span className="font-bold text-lg tracking-tight text-foreground">Vaulty</span>
+          <span className="font-bold text-lg tracking-tight text-foreground">CalcSafe</span>
         </Link>
         <div className="flex items-center gap-6">
           <Link

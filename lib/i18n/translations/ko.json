@@ -5,7 +5,7 @@
     "blog": "블로그",
     "download": "무료 다운로드",
     "home": "홈",
-    "brand": "Vaulty"
+    "brand": "CalcSafe"
   },
   "hero": {
     "badge": "#1 개인정보 보호 앱 — 숨겨진 계산기 금고",
@@ -14,7 +14,7 @@
     "subtitle": "개인 사진, 동영상, 문서, 비밀번호를 은밀하게 보호하는 완전히 작동하는 계산기. 아무도 알지 못할 것입니다.",
     "appStore": "iOS에서 다운로드",
     "googlePlay": "Android에서 받기",
-    "tagline": "눈에 띄지 않게 숨겨진 비밀 보관함."
+    "tagline": "계산기 뒤에 숨겨진 비밀 보관함."
   },
   "features": {
     "sectionTitle": "완전한 개인정보 보호, 타협 없음",
@@ -119,8 +119,8 @@
     "readArticle": "기사 읽기"
   },
   "brand": {
-    "name": "Vaulty",
-    "fullName": "Vaulty: 숨겨진 사진 보관함",
-    "tagline": "눈에 띄지 않게 숨겨진 비밀 보관함."
+    "name": "CalcSafe",
+    "fullName": "CalcSafe: 숨겨진 사진 보관함",
+    "tagline": "계산기 뒤에 숨겨진 비밀 보관함."
   }
 }

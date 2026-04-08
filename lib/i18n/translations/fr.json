@@ -5,7 +5,7 @@
     "blog": "Blog",
     "download": "Télécharger Gratuitement",
     "home": "Accueil",
-    "brand": "Vaulty"
+    "brand": "CalcSafe"
   },
   "hero": {
     "badge": "#1 App de Confidentialité — Calculatrice avec Coffre Caché",
@@ -14,7 +14,7 @@
     "subtitle": "Une calculatrice entièrement fonctionnelle qui protège secrètement vos photos, vidéos, documents et mots de passe privés. Personne ne le saura jamais.",
     "appStore": "Télécharger sur iOS",
     "googlePlay": "Obtenir sur Android",
-    "tagline": "Votre coffre-fort secret, caché en pleine vue."
+    "tagline": "Votre coffre-fort secret, caché derrière une calculatrice."
   },
   "features": {
     "sectionTitle": "Confidentialité Totale, Zéro Compromis",
@@ -119,8 +119,8 @@
     "readArticle": "Lire l'article"
   },
   "brand": {
-    "name": "Vaulty",
-    "fullName": "Vaulty : Coffre-fort Photo Caché",
-    "tagline": "Votre coffre-fort secret, caché en pleine vue."
+    "name": "CalcSafe",
+    "fullName": "CalcSafe : Coffre-fort Photo Caché",
+    "tagline": "Votre coffre-fort secret, caché derrière une calculatrice."
   }
 }
