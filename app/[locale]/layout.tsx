@@ -54,7 +54,7 @@ export async function generateMetadata({
     ],
     // Google Search Console verification placeholder
     verification: {
-      google: "GOOGLE_VERIFICATION_PLACEHOLDER",
+      google: "oFau2OLnOh7hRuTHc8JN_7sPEx6LXMnIR2ju3xVsrPM",
     },
     metadataBase: new URL(BASE_URL),
     alternates: {
